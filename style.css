@@ -1,0 +1,10 @@
+body {
+  background-color: burlywood;
+  text-align: center;
+}
+
+h3{
+    text-decoration-style: wavy;
+    font-family: cursive;
+    text-decoration-line: underline;
+}
